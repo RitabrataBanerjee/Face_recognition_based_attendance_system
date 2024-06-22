@@ -16,3 +16,5 @@ FEATURES:
 # Screenshots
 ## Main UI
 ![UI](https://github.com/RitabrataBanerjee/Face_recognition_based_attendance_system/assets/82329982/1e4eba94-148f-48b1-a373-32f23b787a79)
+## Taking Attendance
+![Screenshot](https://github.com/RitabrataBanerjee/Face_recognition_based_attendance_system/assets/82329982/cd8ec7ec-9d1b-492e-82a0-a75ea41ae557)
